@@ -1,0 +1,6 @@
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\bin\Debug\Cars.dll
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\bin\Debug\Cars.pdb
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\obj\Debug\Cars.dll
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Cars\obj\Debug\Cars.pdb
