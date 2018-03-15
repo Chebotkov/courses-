@@ -1,0 +1,6 @@
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\bin\Debug\Sorting.cs
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\bin\Debug\SortingLib.dll
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\bin\Debug\SortingLib.pdb
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\obj\Debug\SortingLib.dll
+C:\Users\Павел\source\repos\QM_Sorting\SortingLib\obj\Debug\SortingLib.pdb
