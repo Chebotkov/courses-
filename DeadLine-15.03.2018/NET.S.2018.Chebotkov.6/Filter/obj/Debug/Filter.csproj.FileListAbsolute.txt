@@ -1,0 +1,6 @@
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\bin\Debug\Filter.dll
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\bin\Debug\Filter.pdb
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\obj\Debug\Filter.dll
+C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.3\Filter\obj\Debug\Filter.pdb
