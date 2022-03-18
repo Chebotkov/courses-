@@ -1,9 +1,0 @@
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\bin\Debug\Client.exe.config
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\bin\Debug\Client.exe
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\bin\Debug\Client.pdb
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\bin\Debug\Cars.dll
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\bin\Debug\Cars.pdb
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\obj\Debug\Client.exe
-C:\Users\Павел\source\repos\NET.S.2018.Chebotkov.1\Client\obj\Debug\Client.pdb
